@@ -10,5 +10,5 @@ Happy é uma aplicação desenvolvida que possibilita usuários encontrarem orfa
 <p>
   <h3>Backend</h3>
   - Node Js <img src="https://xesque.rocketseat.dev/platform/tech/node.svg" />
-  - 
+  - Graphql <img src="https://xesque.rocketseat.dev/platform/tech/graphql.svg" />
 </p>
