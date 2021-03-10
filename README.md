@@ -7,8 +7,10 @@
 Happy é uma aplicação desenvolvida que possibilita usuários encontrarem orfanatos!
 
 # ⚙ Tecnologias Utilizadas
-<p>
-  <h3>Backend</h3>
-  <img src="https://xesque.rocketseat.dev/platform/tech/node.svg" />
-  <img src="https://xesque.rocketseat.dev/platform/tech/graphql.svg" />
-</p>
+
+<h3>Backend</h3>
+<div>
+
+<img src="https://xesque.rocketseat.dev/platform/tech/node.svg" />
+<img src="https://xesque.rocketseat.dev/platform/tech/graphql.svg" />
+</div>
