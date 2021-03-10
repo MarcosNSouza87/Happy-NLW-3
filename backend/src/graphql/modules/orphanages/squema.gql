@@ -1,0 +1,32 @@
+type Orphanage{
+    id:ID!
+    name:String!
+    whatsapp:String!
+    latitude:String!
+    longitude:String!
+    about:String!
+    instructions:String!
+    opening_hours:String!
+    open_on_weekends:String!
+}
+input OrphanageInput{
+    name:String
+    whatsapp:String
+    latitude:String
+    longitude:String
+    about:String
+    instructions:String
+    opening_hours:String
+    open_on_weekends:String
+}
+
+
+type Query{
+    Orphanages:[Orphanage!]!
+    Orphanage(id:ID!):Orphanage!
+}
+type Mutation{
+    createOrphanage(data: OrphanageInput!):Orphanage!
+    updateOrphanage(id: ID! ,data: OrphanageInput!):Boolean
+    deleteOrphanage(id: ID!):Boolean
+}

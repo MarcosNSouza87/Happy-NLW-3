@@ -1,0 +1,24 @@
+type Image{
+    id:ID!
+    path:String!
+    file:String!
+    orphanageid:String!
+}
+
+input ImageInput{
+    path:String!
+    file:String!
+    orphanageid:String!
+}
+
+type Query{
+    Images:[Image!]!
+    Image(id:ID!):Image!
+    ImageByOrphanage(orphanageid:ID!):[Image!]!
+}
+
+type Mutation{
+    createImage(data: ImageInput!):Image!
+    updateImage(id: ID! ,data: ImageInput!):Image!
+    deleteImage(id: ID!):Boolean
+}
