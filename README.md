@@ -4,7 +4,8 @@
   <image src="/nlw3.svg" height="50px"/>
 </h1>
 # Happy-NLW-3
-Happy é uma aplicação desenvolvida que possibilita usuários encontrarem orfanatos!
+## Descrição do Projeto
+Happy é uma aplicação desenvolvida em comemoração ao dia das crianças, com ela conseguimos conectar diversas casas de acolhimento institucional, realizando agendamentos de visitas para pessoas que querem fazer o dia dessas crianças mais felizes levando amor, esperança e alegria.
 
 ## Diretrizes do projeto
 
@@ -17,3 +18,11 @@ Projeto React usando template Typescript.
 - [x] Backend
 - [x] Frontend
 - [x] Mobile [em andamento]
+
+<h2 id="tecnologias"> 🚀 Tecnologias </h2>
+- [x] Backend 
+- [ ] Nodejs
+- [ ] ApolloServer
+- [ ] Graphql
+- [ ] Knex
+- [ ] Sqlite3
