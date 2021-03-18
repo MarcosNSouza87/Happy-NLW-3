@@ -6,6 +6,7 @@
 # Happy-NLW-3
 ## 💬 Sobre o projeto 
 Happy é uma aplicação desenvolvida em comemoração ao dia das crianças, com ela conseguimos conectar diversas casas de acolhimento institucional, realizando agendamentos de visitas para pessoas que querem fazer o dia dessas crianças mais felizes levando amor, esperança e alegria.
+
 - Você pode criar e registrar orfanatos;
 - Você pode marcar os dias para visitar orfanatos;
 - Acessando horários e dias de funcionamento 📅;
@@ -32,9 +33,11 @@ Backend
 - [Graphql](https://graphql.org/)
 - [KnexJs](http://knexjs.org/)
 - [ApolloServer](https://www.apollographql.com/docs/apollo-server/)
+
 Frontend
 - [ReactJs]
 - [Typescript]
+
 Mobile
 - [ReactNative]
 
