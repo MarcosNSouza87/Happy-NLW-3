@@ -6,10 +6,14 @@
 # Happy-NLW-3
 Happy é uma aplicação desenvolvida que possibilita usuários encontrarem orfanatos!
 
-# ⚙ Tecnologias Utilizadas
+## Diretrizes do projeto
 
-<h3>Backend</h3>
-<p align="center">
-    <img src="https://xesque.rocketseat.dev/platform/tech/node.svg" />
-    <img src="https://xesque.rocketseat.dev/platform/tech/graphql.svg" />
-</p>
+Projeto React usando template Typescript.
+
+ -> Uma ideia [Rocketseat](https://rocketseat.com.br/)!
+ 
+> Developer [Done]: :atom_symbol:
+
+- [x] Backend
+- [x] Frontend
+- [x] Mobile [em andamento]
