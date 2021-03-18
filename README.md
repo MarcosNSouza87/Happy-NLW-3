@@ -20,9 +20,9 @@ Projeto React usando template Typescript.
 - [x] Mobile [em andamento]
 
 <h2 id="tecnologias"> 🚀 Tecnologias </h2>
-- [x] Backend 
-- [ ] Nodejs
-- [ ] ApolloServer
-- [ ] Graphql
-- [ ] Knex
-- [ ] Sqlite3
+Backend
+
+- [Node.js](https://nodejs.org/en/)
+- [Graphql](https://graphql.org/)
+- [KnexJs](http://knexjs.org/)
+- [ApolloServer](https://www.apollographql.com/docs/apollo-server/)
